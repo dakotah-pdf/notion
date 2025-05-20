@@ -4,7 +4,6 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
-  font-color: rgb(130, 99, 82);
  //background-color: #c2e6e8;
 }
 
@@ -41,13 +40,14 @@ button:focus {
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 10px 10px rgb(219, 214, 195) inset;
+  box-shadow: 10px 10px rgb(219, 214, 195) sienna;
 }
 
 /* Display + Stop/Start/Reset Controls */
 
 #time-left {
   font-size: 70px;
+  font-color: rgb(130, 99, 82);
   text-align: center;
   background-color: rgb(173, 198, 200);
   padding: 20px;
