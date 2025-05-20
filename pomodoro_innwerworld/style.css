@@ -28,15 +28,15 @@ button:active {
 
 button:focus {
   translate: 0.2em 0.2em;
-  box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
-  -webkit-box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
-  -moz-box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
+  box-shadow: 0.2em 0.2em rgb(151, 163, 119) inset;
+  -webkit-box-shadow: 0.2em 0.2em rgb(151, 163, 119) inset;
+  -moz-box-shadow: 0.2em 0.2em rgb(151, 163, 119) inset;
 }
 
 /* Clock Body */
 
 .clock-container {
-  background-color: rgb(240, 240, 190); 
+  background-color: rgb(245, 240, 224); 
   width: 350px;
   border-radius: 20px;
   padding: 30px;
