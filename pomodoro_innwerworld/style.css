@@ -65,6 +65,7 @@ button:focus {
 
 #timer-label {
   font-size: 25px;
+  color: rgb(130, 99, 82);
   text-align: center;
   padding-top: 2px;
   background-color: rgb(173, 198, 200);
@@ -111,6 +112,7 @@ button:focus {
 
 .timer-length {
   font-size: 2em;
+  color: rgb(130, 99, 82);
 }
 
 .break-container,
